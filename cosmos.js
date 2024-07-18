@@ -1,5 +1,8 @@
-const endpoint = "https://cosmos-db-edu.documents.azure.com:443/"
-       
+const endpoint = ""
+        const key = "";
+        const databaseId = "";
+        const containerId = "";
+
         // Función para convertir una cadena en Base64
         function toBase64(str) {
             return btoa(unescape(encodeURIComponent(str)));
