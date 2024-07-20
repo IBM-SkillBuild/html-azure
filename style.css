@@ -1,15 +1,9 @@
-div{
+table{
 
-    margin: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  background-color: rgb(45, 212, 67);
-  padding: 20px;
-    
+ padding: 200px;
     }
 
 h1{
     font-size: 14px;
 }    
+
